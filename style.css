@@ -678,7 +678,7 @@ color: white;
         }
     }
     .header{
-        min-height: 600px;
+        min-height: 100vh;
         background-image: radial-gradient(
             rgb(255, 255, 255,0),rgba(0, 0, 0,.9)), 
         url("Photos/pholosho\ fav.jpeg");
