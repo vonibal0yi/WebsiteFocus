@@ -561,7 +561,7 @@ color: var(--text-dark);
     }
     .ab img{
         border-radius: 50px;
-        width: 230px;
+        width: 100%;
         padding-left: 10px;
         
         

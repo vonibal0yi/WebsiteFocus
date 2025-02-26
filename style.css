@@ -68,7 +68,7 @@ body{
     min-height: 600px;
     background-image: radial-gradient(
         rgb(255, 255, 255,0),rgba(0, 0, 0,.9)), 
-    url("/focustripod/Photos/sne.JPG");
+    url("images/tlotlo\ blue.jpeg");
     background-position: center center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -652,7 +652,7 @@ color: white;
  }
  @media (width>1024px) {
     .header{
-        min-height: 700px;
+        min-height: 700px; 
     }
     .portfoliogrid{
         gap: 2rem;
@@ -674,16 +674,14 @@ color: white;
         
         .clientcontainer{
             padding-bottom: 2rem;
-            
-            padding-top: 0;
-            
+            padding-top: 0;         
         }
     }
-    .headerRr{
+    .header{
         min-height: 600px;
         background-image: radial-gradient(
             rgb(255, 255, 255,0),rgba(0, 0, 0,.9)), 
-        url("./images/tshili\ grad.jpg");
+        url("Photos/pholosho\ fav.jpeg");
         background-position: center center;
         background-size: cover;
         background-repeat: no-repeat;
