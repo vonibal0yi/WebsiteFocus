@@ -65,7 +65,7 @@ body{
     min-height: 600px;
     background-image: radial-gradient(
         rgb(255, 255, 255,0),rgba(0, 0, 0,.9)), 
-    url("assets/black\ fav.jpg");
+    url("assets/black\ fav.jpeg");
     background-position: center center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -712,7 +712,7 @@ body{
         min-height: 600px;
         background-image: radial-gradient(
             rgb(255, 255, 255,0),rgba(0, 0, 0,.9)), 
-        url("assets/dim.jpg");
+        url("assets/dim.jpeg");
         background-position: center center;
         background-size: cover;
         background-repeat: no-repeat;
