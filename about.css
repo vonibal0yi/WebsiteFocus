@@ -62,10 +62,10 @@ body{
     font-family: "Montserrat", serif;
 }
 .header{
-    min-height: 600px;
+    min-height: 100vh;
     background-image: radial-gradient(
         rgb(255, 255, 255,0),rgba(0, 0, 0,.9)), 
-    url("/focustripod/images/gau.jpg");
+    url("images/tshili\ grad.jpeg");
     background-position: center center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -561,7 +561,7 @@ color: var(--text-dark);
     }
     .ab img{
         border-radius: 50px;
-        width: 100%;
+        width: 95%;
         padding-left: 10px;
         
         
@@ -576,10 +576,10 @@ color: var(--text-dark);
         
     }
     .header{
-        min-height: 600px;
+        min-height: 100vh;
         background-image: radial-gradient(
             rgb(255, 255, 255,0),rgba(0, 0, 0,.9)), 
-        url("/focustripod/Photos/me\ and\ phenyo.JPG");
+        url("Photos/me\ and\ phenyo.jpeg");
         background-position: center center;
         background-size: cover;
         background-repeat: no-repeat;
